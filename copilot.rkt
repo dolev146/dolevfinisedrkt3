@@ -1,5 +1,9 @@
 #lang pl
 
+;; time took : 6 hours
+;; dolev part was to write the parser and the subst function
+;; and yakov part was to write the eval function and the eval-test function
+
 
 (define-type FLANG
 ;; FLANG is the type of FLANG expressions
